@@ -7,3 +7,6 @@
 
 🎯 목표 🎯
 - 일주일 안에 완독(실패...)
+
+- java --module-path C:\javafx-sdk-21.0.7\lib --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.web -jar godofjava-230902.jar
+  >실행기 실행 명령어
